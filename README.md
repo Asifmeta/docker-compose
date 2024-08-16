@@ -36,5 +36,15 @@ Then run below commands
 ![image](https://github.com/user-attachments/assets/89547821-9553-4e2f-b46d-1841da24a879)
 click on login button
 ![image](https://github.com/user-attachments/assets/3554eaa7-09c9-4d94-b538-8f96b78f0fd0)
+create table of "students" and "save"
+![image](https://github.com/user-attachments/assets/b81c1ecd-83c5-4c10-8d71-13448cd0f42f)
+now click on "public" in above line and you will get schema
+![image](https://github.com/user-attachments/assets/5f23301c-2460-49e6-abfa-e8ac18f92250)
+now go to "Alter TAble"
+and enter some colums by clicking on "+" button
+![image](https://github.com/user-attachments/assets/ab1ccd23-153d-415c-811f-4b1c7247aff7)
+
+
+
 
 

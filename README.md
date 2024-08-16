@@ -24,3 +24,8 @@ https://www.youtube.com/watch?v=nlk0QlPdbcY
             ports:
             - "8080:8080"
 
+Then run below commands 
+* docker compose config
+* docker compose up
+  * two images with name "postgres" and "adminer" created
+  * Also main container named "docker-compose" and sub container with name "postgres" and "adminer" created

@@ -29,3 +29,9 @@ Then run below commands
 * docker compose up
   * two images with name "postgres" and "adminer" created
   * Also main container named "docker-compose" and sub container with name "postgres" and "adminer" created
+
+ Now open port http://127.0.0.1:8080/
+ serername =  servicename 
+ and all other details as per below picture
+![image](https://github.com/user-attachments/assets/89547821-9553-4e2f-b46d-1841da24a879)
+

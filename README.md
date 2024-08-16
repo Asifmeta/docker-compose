@@ -1,6 +1,6 @@
 # docker-compose
-How to use PostgreSQL with Docker & Python (also Web UI) Adminer
-https://www.youtube.com/watch?v=nlk0QlPdbcY
+Folder on my system
+C:\Users\Asif sb\Desktop\code\docker\docker-compose
 
 # docker-compose
 How to use PostgreSQL with Docker & Python (also Web UI) Adminer

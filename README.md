@@ -34,4 +34,7 @@ Then run below commands
  serername =  servicename 
  and all other details as per below picture
 ![image](https://github.com/user-attachments/assets/89547821-9553-4e2f-b46d-1841da24a879)
+click on login button
+![image](https://github.com/user-attachments/assets/3554eaa7-09c9-4d94-b538-8f96b78f0fd0)
+
 
